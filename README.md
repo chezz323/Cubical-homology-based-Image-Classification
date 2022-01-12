@@ -1,1 +1,1 @@
-# Cubical-homology-based-Image-Classification
+# Cubical homology-based Image Classification
